@@ -1,0 +1,209 @@
+﻿#naglowek {
+    background-color: #7A7A7A;
+    font-size: 24px;
+    width:100%;
+    margin-left:-8px;
+    margin-top:-11px;
+}
+.n1:hover{color:red}
+
+.n1 {
+    width: 237.45px;
+    height: 32.62px;
+    left: 47px;
+    top: 11.01px;
+    background-color: #C4C4C4;
+    margin-left:51px;
+
+}
+.n2 {
+    width: 98px;
+    height: 32px;
+    left: 336px;
+    top: 11.01px;
+    background-color: #C4C4C4;
+    margin-left: 51px;
+}
+.n3 {
+    width: 160px;
+    height: 32.62px;
+    left: 485px;
+    top: 11.01px;
+    background-color: #C4C4C4;
+    margin-left: 51px;
+}
+.n4 {
+    width: 169.62px;
+    height: 32.62px;
+    left: 696px;
+    top: 11.01px;
+    background-color: #C4C4C4;
+    margin-left: 51px;
+}
+
+#ww1 {
+    padding-right:140px;
+    padding-left:56px;
+    padding-top:32px;
+    text-align:center;
+    width: 245px;
+    height: 100px;
+    left: 255px;
+    top: 845px;
+    background: #858585;
+    margin-left:0px;
+}
+#ww2 {
+    margin-top:114px;
+    margin-left:-150px;
+   float:left;
+    width: 255px;
+    height: 226px;
+    top: 1078.04px;
+    background: #858585;
+    text-align: center;
+
+}
+#ww3 {
+    margin-top:114px;
+    margin-left: 23.01px;
+    width: 255px;
+    height: 226px;
+    top: 1078.04px;
+    background: #858585;
+    text-align: center;
+    float:left;
+}
+#ww4 {
+    margin-top: 114px;
+    margin-left: 23.01px;
+    width: 255px;
+    height: 226px;
+    top: 1078.04px;
+    background: #858585;
+    text-align: center;
+    float: left;
+}
+.w1 {
+    
+    font-size: 30px;
+    line-height: 35px;
+    margin-top: 845px;
+    text-align: center;
+    color:#FFFFFF;
+    margin-left:56px;
+}
+.w2 {
+    padding-top: 50px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 200px;
+}
+#slogan {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 84px;
+    color: #FFFFFF;
+    float: left;
+    
+    width: 760px;
+    height: 387px;
+    left: 834.94px;
+    top: 248.01px;
+    margin-left:171.98px;
+    margin-top:194.86px;
+}
+#logo {float:left;
+       margin-left:170.93px;
+       margin-top:17.91px;
+}
+#lorem {
+    position: absolute;
+    width: 734px;
+    height: 394px;
+    left: 1068.97px;
+    top: 943.99px;
+    background: #858585;
+    padding-right:49.35px;
+    padding-top:40px;
+    padding-left:49px;
+}
+.l {
+    margin-top:49px;
+   
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF;
+    text-align:center;
+}
+#produkt {
+    position: absolute;
+    width: 587px;
+    height: 89px;
+    left: 708.01px;
+    top: 1647.01px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 75px;
+    color: #272727;
+    
+}
+#fotel {
+    position: absolute;
+    width: 528px;
+    height: 731px;
+    left: 778.02px;
+    top: 1773.01px;
+}
+#stopka {
+    position: absolute;
+    width: 1920px;
+    height: 83px;
+    left: 0px;
+    top: 2774px;
+    background: #7A7A7A;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    width: 100%;
+    color: #FFFFFF;
+}
+.k1 {
+    
+}
+.k2 {margin-left:443px;
+     text-align:center;
+}
+.k3 {
+    margin-left: 72px;
+    text-align: center;
+}
+body {
+    background: linear-gradient(180deg, #4E4C4C 0%, rgba(255, 255, 255, 0) 100%), #B9B2B2;
+    width: 100%;
+    height:2769px;      
+}
+#tlo {
+    margin-top: 837.02px;
+    width: 1452px;
+    height: 1507px;
+    left: 212px;
+    top: 512px;
+    background: url(TLO.png);
+    margin-left: 212px;
+    
+}
